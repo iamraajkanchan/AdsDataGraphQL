@@ -1,0 +1,933 @@
+{
+  "advertisements": [
+    {
+      "id": "aa333cd2-8792-42a8-b5c3-8c9a5bb7c98c",
+      "title": "iMac",
+      "name": "Apple",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/Apple.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iMac/iMac_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iMac/iMac_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iMac/iMac_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iMac/iMac_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iMac/iMac_5.jpg"
+      ],
+      "description": "The iMac is also a pretty good value, because it comes with that high-resolution screen. If you wanted to configure a Mac mini and a 4K iMac with the same specs, you'd only have $400 left over to buy a 4K display. For the 5K iMac the figure is $800.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "c216c395-00ae-408f-ab9e-46ef84d995e7",
+      "title": "iPhone 11 Pro",
+      "name": "Apple",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/Apple.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_11_Pro/iPhone11_Pro_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_11_Pro/iPhone11_Pro_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_11_Pro/iPhone11_Pro_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_11_Pro/iPhone11_Pro_4.jpg"
+      ],
+      "description": "In the iPhone 11 Pro, the front-facing camera has been upgraded to 12 megapixels from 7 megapixels in the iPhone XS, and it supports next-generation Smart HDR for better than ever contrast and color. The updated camera is capable of recording 60 fps video in 4K with support for extended dynamic range video at 30 fps.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "efa2cd0e-7c48-4ae7-88fe-a93c2736580c",
+      "title": "iPhone 6",
+      "name": "Apple",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/Apple.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_6/iPhone_6_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_6/iPhone_6_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_6/iPhone_6_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_6/iPhone_6_4.jpg"
+      ],
+      "description": "The iPhone 6 starts at $199 for 16GB of storage, $299 for 64GB and $399 for 128GB. The iPhone 6 Plus starts at $299 for 16GB of storage, $399 for 64GB and $499 for 128GB. Pricing listed here is subsidized pricing from carriers, which normally requires a two-year contract.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "2bfc1784-caab-40a9-99ce-ef63475d3869",
+      "title": "iPhone X",
+      "name": "Apple",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/Apple.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_X/iPhoneX_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_X/iPhoneX_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_X/iPhoneX_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_X/iPhoneX_4.jpg"
+      ],
+      "description": "The iPhone X was Apple's flagship 10th anniversary iPhone featuring a 5.8-inch OLED display, facial recognition and 3D camera functionality, a glass body, and an A11 Bionic processor. Launched November 3, 2017, discontinued with the launch of the iPhone XR, XS, and XS Max.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "919b1186-2a1a-457d-bd1e-587954023a3d",
+      "title": "iPhone XR",
+      "name": "Apple",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/Apple.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_XR/iPhone_XR_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_XR/iPhone_XR_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_XR/iPhone_XR_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_XR/iPhone_XR_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/iPhone_XR/iPhone_XR_5.jpg"
+      ],
+      "description": "Apple iPhone XR is powered by a hexa-core Apple A12 Bionic processor. It comes with 3GB of RAM. ... The Apple iPhone XR is a dual-SIM (GSM and GSM) smartphone that accepts Nano-SIM and eSIM cards. The Apple iPhone XR measures 150.90 x 75.70 x 8.30mm (height x width x thickness) and weighs 194.00 grams.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "0ad5fb0b-f872-4a53-90f2-33ad09688bf2",
+      "title": "Macbook Pro",
+      "name": "Apple",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/Apple.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/Macbook_Pro/Macbook_Pro_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/Macbook_Pro/Macbook_Pro_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/Macbook_Pro/Macbook_Pro_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/Macbook_Pro/Macbook_Pro_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Apple/Macbook_Pro/Macbook_Pro_5.jpg"
+      ],
+      "description": "Apple MacBook Pro is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i5 processor and it comes with 12GB of RAM. The Apple MacBook Pro packs 512GB of SSD storage.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "f2b6cece-c133-44f5-988e-3d0cb1da578c",
+      "title": "Quiet comfort 35",
+      "name": "Bose",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Bose.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Headphones/Headphones_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Headphones/Headphones_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Headphones/Headphones_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Headphones/Headphones_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Headphones/Headphones_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Headphones/Headphones_6.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Headphones/Headphones_7.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Headphones/Headphones_8.jpg"
+      ],
+      "description": "Quiet comfort 35 wireless headphones are engineered with world-class noise cancellation that makes quiet sound quieter and music sound better. Free yourself from wires and connect easily to your devices with Bluetooth and NFC pairing.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "5eab8f9f-8492-4555-9977-38b5cc11ca62",
+      "title": "SoundLink Mini",
+      "name": "Bose",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Bose.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Speaker/Speaker_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Speaker/Speaker_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Speaker/Speaker_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Speaker/Speaker_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Speaker/Speaker_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Bose/Speaker/Speaker_6.jpg"
+      ],
+      "description": "Quiet comfort 35 wireless headphones are engineered with world-class noise cancellation that makes quiet sound quieter and music sound better. Free yourself from wires and connect easily to your devices with Bluetooth and NFC pairing.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "40dbe3e0-9682-4336-9185-da21987a614d",
+      "title": "Winter Mania",
+      "name": "Dominos",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Dominos/Dominos.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Dominos/Dominos_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Dominos/Dominos_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Dominos/Dominos_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Dominos/Dominos_4.jpg"
+      ],
+      "description": "Because just like a pizza, Domino's understands you. And to shoo away those end-of-the-month blues while placing your order with our pizza restaurant, check out the everyday pizzas from pizza mania combos with everyday value offer of 2 pizzas starting at just ₹99 (regular size) and ₹199 (medium size) each.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "87238c33-81b4-42cd-8e35-8879502da984",
+      "title": "Haier HS18CKCS3CNA",
+      "name": "Haier",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/Haier.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/AC/AC_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/AC/AC_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/AC/AC_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/AC/AC_4.jpg"
+      ],
+      "description": "Haier HS18CKCS3CNA is a “Hot and Cold” air conditioner offering comfort round the year. Capacity: This cooling device is incorporated with an R22 Rotary Compressor which has Cooling Capacity of 1.5 Ton.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "3d089566-ffc6-406f-b1b6-9badb7c2d3fd",
+      "title": "Haier HRD-2204BS-R",
+      "name": "Haier",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/Haier.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/Fridge/Fridge_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/Fridge/Fridge_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/Fridge/Fridge_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/Fridge/Fridge_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/Fridge/Fridge_5.jpg"
+      ],
+      "description": "Buy Haier 220 L Direct Cool Single Door 4 Star (2019) Refrigerator(Brushline silver, ... Overview, Reciprocatory. Additional ... Haier 181 L Direct Cool Single Door 3 Star (2019) Refrigerator(MARINE ORNATE, HRD-1813BMO-R/E) ... silver, HRD-2204BS-R/E//HRD-2204CBS-R/E) by Haier via adsjective.com.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "a10e8b23-97cf-4d40-a0ca-2ef9c4bcfd51",
+      "title": "Haier LE32B9000",
+      "name": "Haier",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/Haier.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/TV/TV_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/TV/TV_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/TV/TV_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/TV/TV_4.jpg"
+      ],
+      "description": "Haier LE32B9000 (32-inch) HD Ready LED TV Price in India (2020): ₹12399. ... In The Box, Television, Remote Control, Batteries, User Manual, Warranty Card.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "f414e708-958e-4c3d-9880-acf69eca8b70",
+      "title": "Haier HW80-BD12756NZP",
+      "name": "Haier",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/Haier.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/WashingMachine/WashingMachine_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/WashingMachine/WashingMachine_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/WashingMachine/WashingMachine_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/WashingMachine/WashingMachine_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/WashingMachine/WashingMachine_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Haier/WashingMachine/WashingMachine_6.jpg"
+      ],
+      "description": "The Haier fully automatic top load washing machine equipped with NZP technology which work efficiently and effectively even with a water pressure of 0.001-0.002 mpa. It has transparent toughened lid with soft fall technology which avoid sudden drop and hurting hands.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "154bad99-03e1-4ace-b6ed-d1edbed6dc6b",
+      "title": "Absolute Youth Infinity",
+      "name": "Lakme",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Lakme.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/AntiAging/AntiAging_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/AntiAging/AntiAging_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/AntiAging/AntiAging_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/AntiAging/AntiAging_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/AntiAging/AntiAging_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/AntiAging/AntiAging_6.jpg"
+      ],
+      "description": "Get a youthful glow on your skin with the Lakme Youth Infinity Skin Firming Day Creme. Endowed with anti-ageing properties, it enables your skin to look younger after every use. This day cream removes the wrinkles and blemishes from your skin.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "38b7b018-36c0-4167-a5c7-e620b03f8d66",
+      "title": "Cleansing Milk Deep Cleanser",
+      "name": "Lakme",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Lakme.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Cleanser/Cleanser_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Cleanser/Cleanser_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Cleanser/Cleanser_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Cleanser/Cleanser_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Cleanser/Cleanser_5.jpg"
+      ],
+      "description": "Lakme gentle and soft deep pore cleanser for dry skin. ... formulated with natural avocado extracts gently cleans the skin of all surface impurities. Vitamin E known for its Antioxidants properties conditions the skin. Skin feels visibly cleansed and purified.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "8dee7a6f-1b69-4dd5-8239-8b86e94934ce",
+      "title": "Absolute Infinity Eyeshadow",
+      "name": "Lakme",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Lakme.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/EyeShadow/EyeShadow_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/EyeShadow/EyeShadow_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/EyeShadow/EyeShadow_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/EyeShadow/EyeShadow_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/EyeShadow/EyeShadow_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/EyeShadow/EyeShadow_6.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/EyeShadow/EyeShadow_7.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/EyeShadow/EyeShadow_8.jpg"
+      ],
+      "description": "The range features 4 vibrant and versatile eyeshadow palettes - Soft Nudes, Pink Paradise, Coral Sunset and Midnight Magic. Each 12 piece set has 6 gorgeous mattes and 6 shimmery shades designed to create a melange of looks. These shades effortlessly blend and can easily be built as they softly melt onto lids.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "02e6273f-fd0e-4004-b768-6554832b034e",
+      "title": "Face Sheer",
+      "name": "Lakme",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Lakme.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/FaceSheer/FaceSheer_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/FaceSheer/FaceSheer_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/FaceSheer/FaceSheer_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/FaceSheer/FaceSheer_4.jpg"
+      ],
+      "description": "Compliment your skin with the Lakmé Face Sheer for an effortless shine. This sheer powder naturally blends with your skin tone and the range has three shades to choose from. The sun soaked iridescent pigments tint, highlight your cheeks with a beautiful glow.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "8fc41a41-213e-49b2-9bde-caf22422feeb",
+      "title": "Glow & Blush",
+      "name": "Lakme",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Lakme.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Facewash/Facewash_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Facewash/Facewash_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Facewash/Facewash_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Facewash/Facewash_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Facewash/Facewash_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Facewash/Facewash_6.jpg"
+      ],
+      "description": "Lakme Blush And Glow Lemon Gel Face Wash. Crafted by Lakme Salon experts, this gel facewash is infused with soft cleansing beads and lemon anti-oxidants, known to freshen skin. It gently cleanses your skin and effectively washes away dirt, impurities and pollution, leaving your skin with a blush-like glow.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "24dfe3a4-79f7-4683-a742-5fdabd27e55e",
+      "title": "Kajal",
+      "name": "Lakme",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Lakme.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Kajal/Kajal_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Kajal/Kajal_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Kajal/Kajal_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Kajal/Kajal_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Kajal/Kajal_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Kajal/Kajal_6.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Kajal/Kajal_7.jpg"
+      ],
+      "description": "It has intense matte texture for Eyeconic eyes. You can Experiment with a thin line or a bold wing, this kajal is great for day and night looks. Its long-lasting- up to 22 hours without smudging and is completely water proof. It is designed with an easy to use and convenient twist-up format.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "5f861875-3d10-48dd-9172-adff68fc06fe",
+      "title": "Lipstick",
+      "name": "Lakme",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Lakme.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Lipstick/Lakme_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Lipstick/Lakme_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Lipstick/Lakme_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Lipstick/Lakme_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Lakme/Lipstick/Lakme_5.jpg"
+      ],
+      "description": "It has intense matte texture for Eyeconic eyes. You can Experiment with a thin line or a bold wing, this kajal is great for day and night looks. Its long-lasting- up to 22 hours without smudging and is completely water proof. It is designed with an easy to use and convenient twist-up format.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "0167c693-0a64-4d2d-8015-e9180f70bdf1",
+      "title": "Belt",
+      "name": "Levis",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Levis.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Belt/Belt_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Belt/Belt_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Belt/Belt_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Belt/Belt_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Belt/Belt_5.jpg"
+      ],
+      "description": "This fine belt is crafted from the finest leather , known for lasting durability and a handsome sheen that only gets better with time.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "9a49df37-ba64-4922-98ec-083124f026be",
+      "title": "Jacket",
+      "name": "Levis",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Levis.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Jackets/Jacket_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Jackets/Jacket_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Jackets/Jacket_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Jackets/Jacket_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Jackets/Jacket_5.jpg"
+      ],
+      "description": "The original jean jacket since 1962, this denim trucker jacket is fit for anything. This classic trucker features a standard regular fit with a hem that hits below the waist and welt hand pockets.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "f3b44623-3690-4d97-b83e-58cf65a5e0c8",
+      "title": "Jeans",
+      "name": "Levis",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Levis.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Jeans/Jeans_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Jeans/Jeans_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Jeans/Jeans_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Jeans/Jeans_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Jeans/Jeans_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Jeans/Jeans_6.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Jeans/Jeans_7.jpg"
+      ],
+      "description": "Levi's® uses their classic three digit numbering system to help you decide which style was designed just for you. For men, each number represents an overall fit. The rise of the waist, the fit of the seat, down to the leg opening.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "423a713f-c987-45dc-90b4-a01fe6582ed5",
+      "title": "T-Shirt",
+      "name": "Levis",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/Levis.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/TShirt/TShirt_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/TShirt/TShirt_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/TShirt/TShirt_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/TShirt/TShirt_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Levis/TShirt/TShirt_5.jpg"
+      ],
+      "description": "The fabric of your T-shirt decides its fit and look. Fit: If you have a fit body and developed muscles, you can opt for a T-shirt that helps accentuate your muscles.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "4fe9d0fa-c6b6-496d-b47c-c40d9a15101d",
+      "title": "Color Riche Lipstick",
+      "name": "L'oreal Paris",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Loreal.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche/Color_Riche_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche/Color_Riche_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche/Color_Riche_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche/Color_Riche_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche/Color_Riche_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche/Color_Riche_6.jpeg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche/Color_Riche_7.jpg"
+      ],
+      "description": "Creamy hydrating texture. This lipstick keeps lips well hydrated and soft as long as it stays on the lips. A beautiful coral pink shade which will complement every fair/medium skin tone beauty. Pretty good staying power of 4-6 hours.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "f9530e13-7ecf-4bdc-a564-9d5915262303",
+      "title": "Color Riche Nail Polish",
+      "name": "L'oreal Paris",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Loreal.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche_Nail/Color_Riche_Nail_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche_Nail/Color_Riche_Nail_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche_Nail/Color_Riche_Nail_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche_Nail/Color_Riche_Nail_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche_Nail/Color_Riche_Nail_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche_Nail/Color_Riche_Nail_6.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche_Nail/Color_Riche_Nail_7.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche_Nail/Color_Riche_Nail_8.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Color_Riche_Nail/Color_Riche_Nail_9.jpg"
+      ],
+      "description": "L'Oreal brings to you a nail polish enriched with a blend of precious oils and intense color pigments, for the most sophisticated, powerful colors and shine in one stroke. With a patented flexi brush for the easiest, most precise application.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "69cb181a-4d43-483c-b0e8-b1d4314808dc",
+      "title": "Elnett",
+      "name": "L'oreal Paris",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Loreal.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Elnett/Elnett_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Elnett/Elnett_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Elnett/Elnett_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Elnett/Elnett_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Elnett/Elnett_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Elnett/Elnett_6.jpg"
+      ],
+      "description": "Elnett offers your hairstyle long-lasting hold with a brilliant shine and a soft touch. Its unique micro-diffuser sprays ultra-fine and disappears at the stroke of a brush, leaving hair feeling clean, soft and shiny. Hold 35 cm from head for an even distribution throughout.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "b8394d5e-bcd5-41a7-86b8-8a97fb413882",
+      "title": "Elvive",
+      "name": "L'oreal Paris",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Loreal.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Elvive/Elvive_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Elvive/Elvive_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Elvive/Elvive_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Elvive/Elvive_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Elvive/Elvive_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Elvive/Elvive_6.jpg"
+      ],
+      "description": "Elvive. shampoos, conditioners and treatments for damaged hair. Elvive helps to revive all forms of hair damage. Whether it's from heat styling, color processing or dryness, Elvive has powerful treatments formulated with superior technology.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "f80ba79d-4a09-4fc3-8400-1e0059be665f",
+      "title": "Volume Million Lashes",
+      "name": "L'oreal Paris",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Loreal.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Lashes/Lashes_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Lashes/Lashes_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Lashes/Lashes_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Lashes/Lashes_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Lashes/Lashes_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Lashes/Lashes_6.jpg"
+      ],
+      "description": "The in-built wiper removes excess mascara which avoids clumping of the eyelashes. Voluminous Million Lashes glides on smoothly, and lasts all day, while thickening and separating every lash for a clump-free, smudge-free look.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "15275b58-3c69-4371-accf-87158a39427e",
+      "title": "Preference",
+      "name": "L'oreal Paris",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Loreal.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Preference/Preference_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Preference/Preference_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Preference/Preference_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Preference/Preference_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Preference/Preference_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Preference/Preference_6.jpg"
+      ],
+      "description": "Preference gives you long lasting hair color that's fade-defying for weeks and weeks. From root to tip whether you have blonde hair, brown hair, black hair or red hair color, your color won't look dull or brassy.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "ef331485-c7f2-4057-bf38-76396fa3dea3",
+      "title": "Smooth Intense",
+      "name": "L'oreal Paris",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Loreal.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Smooth_Intense/Smooth_Intense_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Smooth_Intense/Smooth_Intense_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Smooth_Intense/Smooth_Intense_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Smooth_Intense/Smooth_Intense_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Smooth_Intense/Smooth_Intense_5.jpg"
+      ],
+      "description": "L'Oreal Smooth Intense Smoothing Conditioner nourishes and smoothes your hair from root to tip making it look more smooth & manageable. The texture and the shine of your hair is renewed.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "b4021dc4-bbd1-4140-a7a3-5596ca34f07c",
+      "title": "Super Liner",
+      "name": "L'oreal Paris",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Loreal.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/SuperLiner/SuperLiner_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/SuperLiner/SuperLiner_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/SuperLiner/SuperLiner_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/SuperLiner/SuperLiner_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/SuperLiner/SuperLiner_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/SuperLiner/SuperLiner_6.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/SuperLiner/SuperLiner_7.jpg"
+      ],
+      "description": "L'Oreal Super Liner, Black Lacquer L'Oreal Super Liner is an amazing lacquer which is very easy to use. This is smudge proof and water proof eyeliner which stays on for a long time and defines your eyes beautifully. Features: Water proof Smudge proof Long lasting eye liner Defines your eyes.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "ebb1e08c-72b3-4572-b2b0-1ee606758232",
+      "title": "Total Repair",
+      "name": "L'oreal Paris",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/Loreal.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/TotalRepair/TotalRepair_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/TotalRepair/TotalRepair_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/TotalRepair/TotalRepair_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/TotalRepair/TotalRepair_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/TotalRepair/TotalRepair_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/TotalRepair/TotalRepair_6.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Loreal/TotalRepair/TotalRepair_7.jpg"
+      ],
+      "description": "\"5 Problems 1 Solution\", Total Repair 5 repairing shampoo helps fight against the five visible signs of damaged hair. Hair fall, dryness, roughness, dullness and split ends without weighing it down. Day after day, your hair is strong , supple, smooth, shiny and protected tips.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "b1548311-00ed-4431-8965-e43d14179b75",
+      "title": "Burgers",
+      "name": "McDonalds",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/McDonalds/McDonalds.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/McDonalds/McDonalds_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/McDonalds/McDonalds_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/McDonalds/McDonalds_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/McDonalds/McDonalds_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/McDonalds/McDonalds_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/McDonalds/McDonalds_6.jpg"
+      ],
+      "description": "(Uncooked weight) ground beef patty with ketchup, mustard, chopped onions, pickle, and two slices of cheese. As with burgers made with the smaller 1.6-ounce (45 g) patties, the Quarter Pounder is prepared without mustard in all or a large portion of the New York City region.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "288e6c50-2d7b-43a0-80ee-30c102b3730a",
+      "title": "OnePlus 5",
+      "name": "OnePlus",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus5/OnePlus5_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus5/OnePlus5_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus5/OnePlus5_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus5/OnePlus5_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus5/OnePlus5_5.jpg"
+      ],
+      "description": "The phone is powered by Octa core (2.45 GHz, Quad core, Kryo 280 + 1.9 GHz, Quad core, Kryo 280) processor. It runs on the Qualcomm Snapdragon 835 MSM8998 Chipset. It has 6 GB RAM and 64 GB internal storage. OnePlus 5 smartphone has a Optic AMOLED display.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "3657de42-0912-47f7-833f-1e27b8950d50",
+      "title": "OnePlus 6T",
+      "name": "OnePlus",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T/OnePlus6T_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T/OnePlus6T_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T/OnePlus6T_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T/OnePlus6T_4.jpg"
+      ],
+      "description": "The Phone comes with a large 3700 mAh battery to support it's 6.41 inch screen with Optic AMOLED display having a resolution of 1080 x 2340 at 402 ppi. The screen is also protected by a durable Scratch Resistant glass. OnePlus 6T boasts of dual primary camera of 16 + 20 megapixel and 16 megapixel front Camera.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "c1466114-e13a-44e0-a1a1-8eb56fe4a6dd",
+      "title": "OnePlus 6T Maclaren",
+      "name": "OnePlus",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_5.jpeg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_6.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_7.jpg"
+      ],
+      "description": "The newly launched OnePlus 6T McLaren exhibits a 6.41\" (16.28 cm) display with a screen resolution of 1080 x 2340 pixels. ... Its screen to body ratio is 85.43 percentage, its capacitive touchscreen supports multi-touch and comes with a corning gorilla glass v6 that protects it from minor scratches.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "9683093a-d302-4c1d-ac3c-690184fe9814",
+      "title": "OnePlus 6T Maclaren",
+      "name": "OnePlus",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_5.jpeg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_6.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus6T_Maclaren/OnePlus6T_Maclaren_7.jpg"
+      ],
+      "description": "The newly launched OnePlus 6T McLaren exhibits a 6.41\" (16.28 cm) display with a screen resolution of 1080 x 2340 pixels. ... Its screen to body ratio is 85.43 percentage, its capacitive touchscreen supports multi-touch and comes with a corning gorilla glass v6 that protects it from minor scratches.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "1a3d30d7-f7ac-43a0-9c64-90c0e38d312f",
+      "title": "OnePlus 7 Pro",
+      "name": "OnePlus",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus7_Pro/OnePlus7_Pro_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus7_Pro/OnePlus7_Pro_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus7_Pro/OnePlus7_Pro_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus7_Pro/OnePlus7_Pro_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus7_Pro/OnePlus7_Pro_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus7_Pro/OnePlus7_Pro_6.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus7_Pro/OnePlus7_Pro_7.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/OnePlus/OnePlus7_Pro/OnePlus7_Pro_8.jpg"
+      ],
+      "description": "The OnePlus 7 Pro features a 6.67-inches Quad HD+ Fluid AMOLED display at 3120x1440 pixels resolution and an aspect ratio of 19.5:9. ... Qualcomm's flagship Snapdragon 855 chipset powers the OnePlus 7 Pro with 6GB of RAM and 128GB of internal storage.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "77578fe4-e0f2-4e05-ae9c-dad8fbb7d414",
+      "title": "AC AR18JC3TFUR",
+      "name": "Samsung",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Samsung.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/AC/AC_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/AC/AC_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/AC/AC_3.jpeg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/AC/AC_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/AC/AC_5.jpg"
+      ],
+      "description": "The air circulation of the Samsung 1.5 TON split AC is 14 m3 per minute and it has a cooling capacity of 5.0 kW. Noise Level: The Samsung split AC has a 44/32 dB-A (high/low) indoor noise level and a 54 dB-A outdoor sound power.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "02d2a4c3-88ca-46c9-b88f-8ce3cb4fe1a3",
+      "title": "Fridge RT28K3343R2",
+      "name": "Samsung",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Samsung.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Fridge/Fridge_1.jpeg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Fridge/Fridge_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Fridge/Fridge_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Fridge/Fridge_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Fridge/Fridge_5.jpg"
+      ],
+      "description": "Samsung RT28K3343R2 253 Ltr Double Door Refrigerator has Water Dispenser, Ice Dispenser other features, Double Door type, Inverter Compressor Star energy rating, 253 Litres capacity.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "90ed39f6-9878-4919-8d8d-8512aa7a4581",
+      "title": "Galaxy 10",
+      "name": "Samsung",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Samsung.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Galaxy10/Galaxy10_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Galaxy10/Galaxy10_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Galaxy10/Galaxy10_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Galaxy10/Galaxy10_4.jpg"
+      ],
+      "description": "The phone is powered by Octa core (2.73 GHz, Dual core, M4 Mongoose + 2.31 GHz, Dual core, Cortex A75 + 1.95 GHz, Quad core, Cortex A55) processor. It runs on the Samsung Exynos 9 Octa 9820 Chipset. It has 8 GB RAM and 128 GB internal storage. Samsung Galaxy S10 smartphone has a Dynamic AMOLED display.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "a1a7e3f3-8e22-4f74-80e1-0e8f8c157860",
+      "title": "Galaxy A20",
+      "name": "Samsung",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Samsung.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Galaxy20/Galaxy20_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Galaxy20/Galaxy20_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Galaxy20/Galaxy20_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Galaxy20/Galaxy20_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Galaxy20/Galaxy20_5.jpg"
+      ],
+      "description": "Samsung Galaxy A20. ... Con una pantalla Infinity-V HD+ de 6.4 pulgadas, el Galaxy A20 está potenciado por un procesador Exynos 7884 de ocho núcleos, con 3GB de memoria RAM y 32GB de almacenamiento interno. La cámara principal del Galaxy A20 es dual de 13 MP + 5 MP y la cámara para selfies es de 8 megapixels.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "68a13b77-9c0e-4d51-8a32-2a72a8e6f681",
+      "title": "QLED TV",
+      "name": "Samsung",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Samsung.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/QLED_TV/QLED_TV_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/QLED_TV/QLED_TV_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/QLED_TV/QLED_TV_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/QLED_TV/QLED_TV_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/QLED_TV/QLED_TV_5.jpg"
+      ],
+      "description": "OLED stands for \"organic light emitting diode.\" QLED (according to Samsung) stands for \"quantum dot LED TV.\" ... OLED is \"emissive,\" meaning the pixels emit their own light.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "fb572561-31c6-47ae-a456-59d72429ec89",
+      "title": "Waching Machine",
+      "name": "Samsung",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Samsung.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/WashingMachine/WashingMachine_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/WashingMachine/WashingMachine_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/WashingMachine/WashingMachine_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/WashingMachine/WashingMachine_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/WashingMachine/WashingMachine_5.jpg"
+      ],
+      "description": "Shop washing machines at Samsung. Featuring front load, top load and semi automatic washing machines. Order online now.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "3e1ef862-3f76-4527-8c99-3894fdb3888d",
+      "title": "Z Flip",
+      "name": "Samsung",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/Samsung.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/ZFlip/ZFlip_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/ZFlip/ZFlip_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/ZFlip/ZFlip_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/ZFlip/ZFlip_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/ZFlip/ZFlip_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/ZFlip/ZFlip_6.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/ZFlip/ZFlip_7.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/ZFlip/ZFlip_8.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Samsung/ZFlip/ZFlip_9.jpg"
+      ],
+      "description": "The phone comes with a 6.70-inch touchscreen primary display with a resolution of 1080x2636 pixels at a pixel density of 425 pixels per inch (ppi). ... Samsung Galaxy Z Flip is powered by a 2.95GHz octa-core Qualcomm Snapdragon 855+ processor. It comes with 8GB of RAM.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "ce549b34-a0d4-4af8-8ce3-12072d086818",
+      "title": "Camera A6400",
+      "name": "Sony",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Sony.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/A6400/A6400_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/A6400/A6400_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/A6400/A6400_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/A6400/A6400_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/A6400/A6400_5.jpg"
+      ],
+      "description": "Sony's A6400 is a compact 24MP mirrorless interchangeable lens camera with an APS-C sensor that will serve plenty of photographers from family documentarians to pro shooters looking for a lightweight second body.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "bb5dd72c-907d-4984-9efe-37c411c77d84",
+      "title": "Bravia",
+      "name": "Sony",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Sony.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Bravia/Bravia_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Bravia/Bravia_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Bravia/Bravia_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Bravia/Bravia_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Bravia/Bravia_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Bravia/Bravia_6.jpg"
+      ],
+      "description": "Bravia (stylized as BRAVIA) is a brand of Sony Visual Products Inc., a wholly owned subsidiary of Sony Corporation, and used for its television products. Its backronym is \"Best Resolution Audio Visual Integrated Architecture\".",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "22e1b89d-f992-4a09-8919-f8868061ff77",
+      "title": "Headphones",
+      "name": "Sony",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Sony.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Headphones/Headphones_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Headphones/Headphones_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Headphones/Headphones_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Headphones/Headphones_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Headphones/Headphones_5.jpg"
+      ],
+      "description": "Sony brings together the best in technology to let you experience the great sounds through your Sony audio devices like headphones, Bluetooth speakers, multimedia speakers and others. The unique LDAC technology that comes with Sony audio devices let you enjoy wireless audio of highest quality through Bluetooth.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "1b3d9ba8-f7b1-4728-84f8-3f58111b945e",
+      "title": "PS4",
+      "name": "Sony",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Sony.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/PS4/PS4_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/PS4/PS4_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/PS4/PS4_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/PS4/PS4_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/PS4/PS4_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/PS4/PS4_6.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/PS4/PS4_7.jpg"
+      ],
+      "description": "The PlayStation 4 uses an Accelerated Processing Unit (APU) developed by AMD in cooperation with Sony. It combines a central processing unit (CPU) and graphics processing unit (GPU), as well as other components such as a memory controller and video decoder.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "4b65abba-ed94-402f-8a59-799c2ef32cea",
+      "title": "Speakers",
+      "name": "Sony",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Sony.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Speakers/Speakers_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Speakers/Speakers_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Speakers/Speakers_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Speakers/Speakers_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Speakers/Speakers_5.jpg"
+      ],
+      "description": "These Sony speakers are good for the money, the problem is, they simply aren't that much money. ... Good speakers are good regardless of the spec, and bad speaker are bad regardless of specs. For very low cost speakers, the Sony Core Floorstanding speakers are OK.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "ef3d13d6-0d21-4d78-a42c-31dabda94f1c",
+      "title": "Xperia",
+      "name": "Sony",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/Sony.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/XPeria/XPeria_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/XPeria/XPeria_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/XPeria/XPeria_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/XPeria/XPeria_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/XPeria/XPeria_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Sony/XPeria/XPeria_6.jpg"
+      ],
+      "description": "Xperia is the brand name of smartphones and tablets from Sony Mobile. The name Xperia is derived from the word \"experience\", and was first used in the Xperia X1 tagline, \"I Xperia the best\".",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "4a475b7c-6406-41ef-aa52-f0a6e8206edd",
+      "title": "Fridge",
+      "name": "Whirlpool",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Whirlpool/Whirlpool.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Whirlpool/Fridge/Fridge_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Whirlpool/Fridge/Fridge_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Whirlpool/Fridge/Fridge_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Whirlpool/Fridge/Fridge_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Whirlpool/Fridge/Fridge_5.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Whirlpool/Fridge/Fridge_6.jpg"
+      ],
+      "description": "Single Door refrigerators: One of our most popular styles that never run out of fashion, Whirlpool's single door fridges are equipped with latest cooling & freshness technology, convenient storage capacity and smart features like 12 hours cooling retention*.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "6fff2b36-0351-40d7-86c7-9ad919eb86e5",
+      "title": "Washing Machine",
+      "name": "Whirlpool",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Whirlpool/Whirlpool.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Whirlpool/WashingMachine/WashingMachine_2.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Whirlpool/WashingMachine/WashingMachine_1.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Whirlpool/WashingMachine/WashingMachine_2.jpg"
+      ],
+      "description": "Top Load Automatic washing machines from Whirlpool are powered with effective Tumble Care technology. It employs advanced sensors to automatically sense the laundry conditions. Tumble Care technology gives unique 360° Tumble Motion. It makes loaded laundry in multiple tumbles, similar to a blooming flower.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "d5386360-b786-4ba7-864b-6d073a4cbc27",
+      "title": "Denim",
+      "name": "Wrangler",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Wrangler/Wrangler.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Wrangler/Jeans/Jeans_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Wrangler/Jeans/Jeans_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Wrangler/Jeans/Jeans_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Wrangler/Jeans/Jeans_4.jpg"
+      ],
+      "description": "The Wrangler Jeans featured several innovations aimed particularly at cowboys: Felled outseams and inseams, rear pockets positioned for comfort in the saddle, 'no scratch' rivet pocket reinforcement, a zipper fly, and use of a strong tack in the crotch instead of a metal rivet.",
+      "longitude": "",
+      "latitude": ""
+    },
+    {
+      "id": "f5ff15ed-3b34-4c44-bf1d-67ce55bd0f6d",
+      "title": "Shirts",
+      "name": "Wrangler",
+      "logo": "http://www.adsjective-media.com/public_html/public/api/busImages/Wrangler/Wrangler.jpg",
+      "image": "http://www.adsjective-media.com/public_html/public/api/busImages/Wrangler/Shirts/Shirts_1.jpg",
+      "image_asset": [
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Wrangler/Shirts/Shirts_2.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Wrangler/Shirts/Shirts_3.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Wrangler/Shirts/Shirts_4.jpg",
+        "http://www.adsjective-media.com/public_html/public/api/busImages/Wrangler/Shirts/Shirts_5.jpg"
+      ],
+      "description": "Wrangler® men's shirts and jackets come in a variety of fits and styles.",
+      "longitude": "",
+      "latitude": ""
+    }
+  ]
+}
